@@ -13,7 +13,7 @@ Organized by topic, with time & space complexity noted on every solution.
 
 | Topic | Problems Solved | Difficulty | Status |
 |---|---|---|---|
-| Arrays | 0 | Easy → Medium | 🔄 In Progress |
+| Arrays | 1 | Easy → Medium | 🔄 In Progress |
 | Strings | 0 | Easy → Medium | ⏳ Not Started |
 | Linked Lists | 0 | Easy → Medium | ⏳ Not Started |
 | Stacks & Queues | 0 | Easy → Medium | ⏳ Not Started |
